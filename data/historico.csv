@@ -1,0 +1,12 @@
+num;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;passos
+1;pergunta;Onde eu tiro a identidade nova?;1;s;s;1;2
+2;pergunta;O que preciso levar para pedir a CIN?;1;s;s;1;2
+3;pergunta;Como marcar horário para fazer a identidade?;3;s;s;1;2
+4;pergunta;A primeira CIN é de graça?;1;s;s;1;2
+5;pergunta;Meu RG antigo ainda vale?;5;s;s;1;2
+6;pergunta;omo ter a identidade no celular, pelo aplicativo?;1;s;s;1;2
+7;pergunta;Perdi minha identidade, o que eu faço?;1;s;s;1;2
+8;pergunta;Meu nome está errado no documento, como corrigir?;8;s;s;1;2
+9;pergunta;Meu filho de 10 anos pode ter a CIN?;9;s;s;1;2
+10;pergunta;Quero a carteirinha de plástico, quanto custa?;0;n;n;1;2
+1;pergunta;ola;0;n;n;1;2

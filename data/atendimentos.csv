@@ -1,0 +1,11 @@
+num;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;passos;titulo_orientacao
+1;pergunta;Onde eu tiro a identidade nova?;1;s;s;1;2;Onde solicitar a Carteira de Identidade Nacional
+2;pergunta;O que preciso levar para pedir a CIN?;1;s;s;1;2;Onde solicitar a Carteira de Identidade Nacional
+3;pergunta;Como marcar horário para fazer a identidade?;3;s;s;1;2;Como encontrar o agendamento para emissão da CIN
+4;pergunta;A primeira CIN é de graça?;1;s;s;1;2;Onde solicitar a Carteira de Identidade Nacional
+5;pergunta;Meu RG antigo ainda vale?;5;s;s;1;2;A carteira de identidade antiga ainda é válida
+6;pergunta;omo ter a identidade no celular, pelo aplicativo?;1;s;s;1;2;Onde solicitar a Carteira de Identidade Nacional
+7;pergunta;Perdi minha identidade, o que eu faço?;1;s;s;1;2;Onde solicitar a Carteira de Identidade Nacional
+8;pergunta;Meu nome está errado no documento, como corrigir?;8;s;s;1;2;Como proceder quando há divergência cadastral
+9;pergunta;Meu filho de 10 anos pode ter a CIN?;9;s;s;1;2;Como solicitar a CIN para menor de 18 anos
+10;pergunta;Quero a carteirinha de plástico, quanto custa?;0;n;n;1;2;-
